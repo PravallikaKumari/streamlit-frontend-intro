@@ -11,6 +11,6 @@ https://kbwe9yuxvykvgmxqrqtxyb.streamlit.app/
 https://ohxrudbgbzmendt6as8nhv.streamlit.app/
 
 ## How to Run:
-1.Py -m streamlit run code1.py
+1.py -m streamlit run code1.py
 
-2.Py -m streamlit run intro.py
+2.py -m streamlit run intro.py
